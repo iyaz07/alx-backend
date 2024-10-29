@@ -1,1 +1,1 @@
-Learning about pagination
+Learning pagination
